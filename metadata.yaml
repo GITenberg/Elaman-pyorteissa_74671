@@ -1,0 +1,33 @@
+_repo: Elaman-pyorteissa_74671
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: O'Shea, M. V. (Michael Vincent)
+    alias: O'Shea, Michael Vincent
+    birthdate: 1866
+    deathdate: 1932
+    gutenberg_agent_id: '7221'
+    url: http://www.gutenberg.org/2009/agents/7221
+creator:
+  author:
+    agent_name: Behrend, Gudda
+    gutenberg_agent_id: '57595'
+    url: http://www.gutenberg.org/2009/agents/57595
+description: ''
+gutenberg_issued: '2024-11-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74671'
+language: fi
+pgterms:marc905: 20241022094946behrend
+pgterms:marc906: '1907'
+pgterms:marc907: FI
+production_note: Tuula Temonen and Tapio Riikonen
+publication_note: '  $aPori :$bGust. Romelius, $c1907.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Elämän pyörteissä
+url: http://www.gutenberg.org/ebooks/74671
